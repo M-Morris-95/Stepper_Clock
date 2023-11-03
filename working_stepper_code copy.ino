@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <Stepper.h>
 
 // Define motor control pins
 const int motorPin1 = 4; // IN1 on the DRV8833
